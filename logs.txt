@@ -1,0 +1,41 @@
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+[32m :: Spring Boot :: [39m              [2m (v2.5.4)[0;39m
+
+[2m2021-08-28 12:42:59.093[0;39m [32m INFO[0;39m [35m20408[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mcom.example.eder.VolvoEder1Application  [0;39m [2m:[0;39m Starting VolvoEder1Application using Java 16.0.2 on DESKTOP-CGDA5RF with PID 20408 (C:\Users\ederv\Documents\workspace-spring-tool-suite-4-4.11.1.RELEASE\Volvo_Eder-1\target\classes started by Eder in C:\Users\ederv\Documents\workspace-spring-tool-suite-4-4.11.1.RELEASE\Volvo_Eder-1)
+[2m2021-08-28 12:42:59.096[0;39m [32m INFO[0;39m [35m20408[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mcom.example.eder.VolvoEder1Application  [0;39m [2m:[0;39m No active profile set, falling back to default profiles: default
+[2m2021-08-28 12:42:59.154[0;39m [32m INFO[0;39m [35m20408[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.e.DevToolsPropertyDefaultsPostProcessor[0;39m [2m:[0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2m2021-08-28 12:42:59.155[0;39m [32m INFO[0;39m [35m20408[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.e.DevToolsPropertyDefaultsPostProcessor[0;39m [2m:[0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2m2021-08-28 12:42:59.902[0;39m [32m INFO[0;39m [35m20408[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.s.d.r.c.RepositoryConfigurationDelegate[0;39m [2m:[0;39m Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[2m2021-08-28 12:42:59.957[0;39m [32m INFO[0;39m [35m20408[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36m.s.d.r.c.RepositoryConfigurationDelegate[0;39m [2m:[0;39m Finished Spring Data repository scanning in 46 ms. Found 1 JPA repository interfaces.
+[2m2021-08-28 12:43:00.554[0;39m [32m INFO[0;39m [35m20408[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat initialized with port(s): 8080 (http)
+[2m2021-08-28 12:43:00.566[0;39m [32m INFO[0;39m [35m20408[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.apache.catalina.core.StandardService  [0;39m [2m:[0;39m Starting service [Tomcat]
+[2m2021-08-28 12:43:00.566[0;39m [32m INFO[0;39m [35m20408[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36morg.apache.catalina.core.StandardEngine [0;39m [2m:[0;39m Starting Servlet engine: [Apache Tomcat/9.0.52]
+[2m2021-08-28 12:43:00.653[0;39m [32m INFO[0;39m [35m20408[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.a.c.c.C.[Tomcat].[localhost].[/]      [0;39m [2m:[0;39m Initializing Spring embedded WebApplicationContext
+[2m2021-08-28 12:43:00.653[0;39m [32m INFO[0;39m [35m20408[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mw.s.c.ServletWebServerApplicationContext[0;39m [2m:[0;39m Root WebApplicationContext: initialization completed in 1498 ms
+[2m2021-08-28 12:43:00.681[0;39m [32m INFO[0;39m [35m20408[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mcom.zaxxer.hikari.HikariDataSource      [0;39m [2m:[0;39m HikariPool-1 - Starting...
+[2m2021-08-28 12:43:00.893[0;39m [32m INFO[0;39m [35m20408[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mcom.zaxxer.hikari.HikariDataSource      [0;39m [2m:[0;39m HikariPool-1 - Start completed.
+[2m2021-08-28 12:43:00.899[0;39m [32m INFO[0;39m [35m20408[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.a.h2.H2ConsoleAutoConfiguration   [0;39m [2m:[0;39m H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:08f67569-d336-46bd-9c18-d239336354e7'
+[2m2021-08-28 12:43:01.093[0;39m [32m INFO[0;39m [35m20408[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.hibernate.jpa.internal.util.LogHelper [0;39m [2m:[0;39m HHH000204: Processing PersistenceUnitInfo [name: default]
+[2m2021-08-28 12:43:01.187[0;39m [32m INFO[0;39m [35m20408[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36morg.hibernate.Version                   [0;39m [2m:[0;39m HHH000412: Hibernate ORM core version 5.4.32.Final
+[2m2021-08-28 12:43:01.409[0;39m [32m INFO[0;39m [35m20408[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.hibernate.annotations.common.Version  [0;39m [2m:[0;39m HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[2m2021-08-28 12:43:01.585[0;39m [32m INFO[0;39m [35m20408[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36morg.hibernate.dialect.Dialect           [0;39m [2m:[0;39m HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+Hibernate: drop table if exists client CASCADE 
+Hibernate: create table client (id bigint generated by default as identity, address varchar(255), age varchar(255), last_update date, name varchar(255) not null, registration_date date, zip_code varchar(255), primary key (id))
+[2m2021-08-28 12:43:02.305[0;39m [32m INFO[0;39m [35m20408[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.h.e.t.j.p.i.JtaPlatformInitiator      [0;39m [2m:[0;39m HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[2m2021-08-28 12:43:02.314[0;39m [32m INFO[0;39m [35m20408[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mj.LocalContainerEntityManagerFactoryBean[0;39m [2m:[0;39m Initialized JPA EntityManagerFactory for persistence unit 'default'
+[2m2021-08-28 12:43:02.596[0;39m [33m WARN[0;39m [35m20408[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mJpaBaseConfiguration$JpaWebConfiguration[0;39m [2m:[0;39m spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[2m2021-08-28 12:43:02.913[0;39m [32m INFO[0;39m [35m20408[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.d.a.OptionalLiveReloadServer      [0;39m [2m:[0;39m LiveReload server is running on port 35729
+[2m2021-08-28 12:43:02.977[0;39m [32m INFO[0;39m [35m20408[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mo.s.b.w.embedded.tomcat.TomcatWebServer [0;39m [2m:[0;39m Tomcat started on port(s): 8080 (http) with context path ''
+[2m2021-08-28 12:43:02.985[0;39m [32m INFO[0;39m [35m20408[0;39m [2m---[0;39m [2m[  restartedMain][0;39m [36mcom.example.eder.VolvoEder1Application  [0;39m [2m:[0;39m Started VolvoEder1Application in 4.339 seconds (JVM running for 5.396)
+[2m2021-08-28 12:43:07.919[0;39m [32m INFO[0;39m [35m20408[0;39m [2m---[0;39m [2m[nio-8080-exec-1][0;39m [36mo.a.c.c.C.[Tomcat].[localhost].[/]      [0;39m [2m:[0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2m2021-08-28 12:43:07.919[0;39m [32m INFO[0;39m [35m20408[0;39m [2m---[0;39m [2m[nio-8080-exec-1][0;39m [36mo.s.web.servlet.DispatcherServlet       [0;39m [2m:[0;39m Initializing Servlet 'dispatcherServlet'
+[2m2021-08-28 12:43:07.920[0;39m [32m INFO[0;39m [35m20408[0;39m [2m---[0;39m [2m[nio-8080-exec-1][0;39m [36mo.s.web.servlet.DispatcherServlet       [0;39m [2m:[0;39m Completed initialization in 1 ms
+Hibernate: select client0_.id as id1_0_, client0_.address as address2_0_, client0_.age as age3_0_, client0_.last_update as last_upd4_0_, client0_.name as name5_0_, client0_.registration_date as registra6_0_, client0_.zip_code as zip_code7_0_ from client client0_
+Hibernate: insert into client (id, address, age, last_update, name, registration_date, zip_code) values (null, ?, ?, ?, ?, ?, ?)
+Hibernate: select client0_.id as id1_0_, client0_.address as address2_0_, client0_.age as age3_0_, client0_.last_update as last_upd4_0_, client0_.name as name5_0_, client0_.registration_date as registra6_0_, client0_.zip_code as zip_code7_0_ from client client0_
